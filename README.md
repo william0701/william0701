@@ -1,4 +1,5 @@
 ## Hi there 👋
+🔭 I’m currently working on Beijing Institute of Genomics, Chinese Academy of Sciences.
 
 <!--
 **william0701/william0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
